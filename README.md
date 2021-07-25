@@ -1,5 +1,4 @@
-selam ben kerem nasılsınız umarım iyisinizdir  burada kendim hakkında  bilgiler verceğim
-
+Zoda'nın github sayfası
 
 ## Bildiğim Diller
 js,html,python,php,c,pascal,lua (giriş)
