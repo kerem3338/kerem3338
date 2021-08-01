@@ -1,6 +1,7 @@
+![](https://komarev.com/ghpvc/?username=kerem3338)
 Zoda'nın github sayfası
 
-## Bildiğim Diller
+**Bildiğim Diller**
 js,html,python,php,c,pascal,lua (giriş)
 
 ## Şuan Uğraştığım Projeler
