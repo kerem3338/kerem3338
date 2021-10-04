@@ -1,8 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=kerem3338)<br>
 Zoda'nın github sayfası
-
-**Deneyimlerim**
-construct oyun motoru, python, pygame, gdevelop oyun motoru
+Herkezin tanıdığı discırd adamı
 
 ## Şuan Uğraştığım Projeler
 Bambu, emo run
