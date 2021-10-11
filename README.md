@@ -5,4 +5,6 @@ Herkezin tanıdığı discord kullanıcısı
 <br>
 **Hesabı en çok kapatılan discord kullanıcısı, Tescilli**
 <br>
-iletişim: zoda@vuhuv.com, Zoda#583
+**iletişim**<br>
+zoda@vuhuv.com, Zoda#583<br>
+[Web sitem](https://kerem3338.github.io)
