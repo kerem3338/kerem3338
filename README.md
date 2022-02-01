@@ -7,11 +7,14 @@ Zoda'nın github sayfası<br>
 ## Hakkımda
 Yanlız bir Geliştirici
 <br>
-Herkezin tanıdığı discord kullanıcısı
+Herkezin tanıdığı discord kullanıcısı.
 <br>
 **Hesabı en çok kapatılan discord kullanıcısı, Tescilli**
 <br><br>
+
 **iletişim**<br>
-zoda@vuhuv.com, Zoda#583<br>
+zoda@vuhuv.com<br>
+[Discord Sunucum](https://discord.gg/wkUuwaDp2N)<br><br>
+
 [Web sitem](https://kerem3338.github.io)
 
