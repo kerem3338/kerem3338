@@ -9,8 +9,8 @@ Yanlız bir Geliştirici
 <br>
 Herkezin tanıdığı discord kullanıcısı.
 <br>
-**Hesabı en çok kapatılan discord kullanıcısı, Tescilli**
-<br><br>
+
+<br>
 
 **iletişim**<br>
 zoda@vuhuv.com<br>
