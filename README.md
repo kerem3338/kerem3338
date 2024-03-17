@@ -14,7 +14,7 @@ Herkezin tanıdığı discord kullanıcısı.
 
 **iletişim**<br>
 zoda@vuhuv.com<br>
-[Discord Sunucum](https://discord.gg/wkUuwaDp2N)<br><br>
+<br><br>
 
 [Web sitem](https://kerem3338.github.io)<br>
 [Mastadon](https://mastodon.social/web/@zoda33)<br>
